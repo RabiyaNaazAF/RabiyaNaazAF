@@ -1,4 +1,4 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="rabiya naaz a.f.png" alt="Mokkapps GitHub README header image">
 
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
@@ -13,11 +13,11 @@
 </p>
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+<a href="https://www.linkedin.com/in/rabiya-naaz-a-f-546070258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+<a href="https://www.instagram.com/rab_sweety_a.f?igsh=MzNlNGNkZWQ4Mg==">
+  <img alt="guilyx's Instagram" width="50px" src="" />
 </a>
 <br>
 </p>
