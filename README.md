@@ -78,11 +78,6 @@ others       16 mins         ▒░░░░░░░░░░░░░░░░
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RabiyaNaazAF&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RabiyaNaazAF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# `quotes` 💬
-
-![When-you-want-something-all-the-universe](https://user-images.githubusercontent.com/194400/162908874-6d1d74cd-a4fd-4dd2-8339-4450c8b4939b.jpeg)
-
-
 
 <div>
 <!-- 
