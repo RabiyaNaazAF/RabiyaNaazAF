@@ -76,11 +76,12 @@ others       16 mins         ▒░░░░░░░░░░░░░░░░
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RabiyaNaazAF&show_icons=true&theme=gotham" alt="RabiyaNaazAF" />
+# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RabiyaNaazAF&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RabiyaNaazAF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Quote
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://www.bing.com/images/search?view=detailV2&ccid=eYXMMGWi&id=99BF9B0FFD26F19C105B02EF67777B183E62BE12&thid=OIP.eYXMMGWiU2nMzQuIQwRdbQHaCO&mediaurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F194400%2F162908874-6d1d74cd-a4fd-4dd2-8339-4450c8b4939b.jpeg&exph=1152&expw=3826&q=quotes-github&simid=608048953488931280&FORM=IRPRST&ck=D994F74FF3CC7DBA3298232C38ED63A9&selectedIndex=13&itb=0&cw=1145&ch=542&ajaxhist=0&ajaxserp=0))
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!-- 
