@@ -34,7 +34,7 @@ hi, i'm [Rabiya Naaz A.F](https://RabiyaNaazAF.me/), a final yaer CSE student an
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. you can connect me to get to know about the open-source courses.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="800" />
   
 - 💼 any freelance work? do reach, [email](mailto:afrabiyanaaz@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
