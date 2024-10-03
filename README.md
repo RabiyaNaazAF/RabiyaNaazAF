@@ -100,7 +100,7 @@ others       16 mins         ▒░░░░░░░░░░░░░░░░
 ```
 During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions, 
 
-You can read more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
+You can read more about me and my open source journey at my website: [https:///](https:///)
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/RabiyaNaazAF" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/rabiya45465"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.instagram.com/rab_sweety_a.f?igsh=MzNlNGNkZWQ4Mg==" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rabiya-naaz-a-f-546070258/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
