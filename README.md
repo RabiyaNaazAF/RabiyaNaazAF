@@ -73,17 +73,19 @@ others       16 mins         ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RabiyaNaazAF&show_icons=true&theme=gotham" alt="RabiyaNaazAF" />
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RabiyaNaazAF&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RabiyaNaazAF&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RabiyaNaazAF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div align="center">
 
+# `quotes` 💬
+
+![When-you-want-something-all-the-universe](https://user-images.githubusercontent.com/194400/162908874-6d1d74cd-a4fd-4dd2-8339-4450c8b4939b.jpeg)
+
+</div>
 <!-- 
 
 - See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
